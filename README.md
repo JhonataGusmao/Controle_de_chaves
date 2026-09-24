@@ -41,7 +41,7 @@ O sistema possui diferentes níveis de acesso,
 permitindo separar as funcionalidades administrativas
 das operações realizadas pelos usuários.
 
-## 📊 Histórico
+## Histórico
 
 Cada movimentação pode registrar:
 
